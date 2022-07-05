@@ -92,3 +92,13 @@ section a {
     width: 30%;
     float: left;
 }
+#fresh{
+    color: orange;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
